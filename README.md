@@ -54,13 +54,14 @@
 ### Backend Development and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express.js, MongoDB and MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="Node.js and MongoDB" />
 </p>
 
 ### Tools and Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" alt="Git, GitHub, VS Code and AWS" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity-Editor-8B5CF6?style=for-the-badge" alt="Antigravity editor" />
 </p>
 
 ---
@@ -102,14 +103,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSatvik992005&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=2563eb"
-    alt="Public repositories"
-  />
-  <img
-    src="https://img.shields.io/github/stars/Satvik992005/Kisaan-Sathi?style=for-the-badge&label=Kisaan%20Sathi%20Stars&color=2563eb"
-    alt="Kisaan Sathi stars"
-  />
+  <a href="https://github.com/Satvik992005?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-Public%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore public repositories"
+    />
+  </a>
 </p>
 
 ---
@@ -122,16 +121,6 @@
     alt="GitHub contribution streak"
     width="75%"
   />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Satvik992005">
-    View my contribution activity and contribution calendar on GitHub →
-  </a>
 </p>
 
 ---
@@ -154,7 +143,10 @@
 
       <p>
         <a href="https://github.com/Satvik992005/Kisaan-Sathi">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Kisaan Sathi repository" />
+          <img
+            src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+            alt="View Kisaan Sathi repository"
+          />
         </a>
       </p>
     </td>
@@ -163,7 +155,10 @@
 
 <p align="center">
   <a href="https://github.com/Satvik992005?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+    <img
+      src="https://img.shields.io/badge/Explore%20All%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore all projects"
+    />
   </a>
 </p>
 
