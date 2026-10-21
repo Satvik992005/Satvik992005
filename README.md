@@ -1,4 +1,4 @@
- <!-- GitHub Profile README for Satvik992005 -->
+<!-- GitHub Profile README for Satvik992005 -->
 
 <h1 align="center">Hey there, I'm Satvik Sharma 👋</h1>
 
@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satvik992005&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -35,7 +31,7 @@
 - 🌱 Currently learning **Node.js, Express.js, MongoDB, and Data Structures & Algorithms in C++**.
 - 🚀 Currently working on **[Kisaan Sathi](https://github.com/Satvik992005/Kisaan-Sathi)**.
 - 🤝 Looking to collaborate on open-source projects and full-stack applications.
-- 🧠 Working on improving my problem-solving skills and backend development knowledge.
+- 🧠 Improving my problem-solving skills and backend development knowledge.
 - 📫 Reach me at **[satvik.pnp@gmail.com](mailto:satvik.pnp@gmail.com)**.
 - ⚡ Fun fact: I love turning real-world problems into working applications.
 
@@ -134,11 +130,7 @@
 
 <p align="center">
   <a href="https://github.com/Satvik992005">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik992005&bg_color=0d1117&color=79a8ff&line=79a8ff&point=c9d1d9&area=true&hide_border=true&custom_title=Satvik%27s%20Contribution%20Graph"
-      alt="Satvik's GitHub contribution graph"
-      width="100%"
-    />
+    View my contribution activity and contribution calendar on GitHub →
   </a>
 </p>
 
@@ -152,10 +144,10 @@
       <h3>🌾 <a href="https://github.com/Satvik992005/Kisaan-Sathi">Kisaan Sathi</a></h3>
 
       <p>
-        An agriculture-focused web application designed to explore how
-        technology can help address real-world challenges faced by farmers.
+        An agriculture-focused web application exploring how technology
+        can help address real-world challenges faced by farmers.
         The project reflects my interest in building practical digital
-        solutions with full-stack development.
+        solutions through web development.
       </p>
 
       <p><strong>Focus:</strong> Agriculture Technology · Web Development</p>
