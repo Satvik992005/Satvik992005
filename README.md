@@ -29,8 +29,8 @@
 - 🎓 Computer Science and Engineering undergraduate.
 - 💻 Interested in full-stack development and building useful web applications.
 - 🌱 Currently learning **Node.js, Express.js, MongoDB, and Data Structures & Algorithms in C++**.
-- 🚀 Currently working on **[Kisaan Sathi](https://github.com/Satvik992005/Kisaan-Sathi)**.
-- 🤝 Looking to collaborate on open-source projects and full-stack applications.
+- 🚀 Working on **[Kisaan Sathi](https://github.com/Satvik992005/Kisaan-Sathi)**.
+- 🤝 Open to collaborating on open-source projects and full-stack applications.
 - 🧠 Improving my problem-solving skills and backend development knowledge.
 - 📫 Reach me at **[satvik.pnp@gmail.com](mailto:satvik.pnp@gmail.com)**.
 - ⚡ Fun fact: I love turning real-world problems into working applications.
@@ -61,7 +61,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
-  <img src="https://img.shields.io/badge/Antigravity-Editor-8B5CF6?style=for-the-badge" alt="Antigravity editor" />
+  <a href="https://antigravity.google/" title="Google Antigravity">
+    <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="48" height="48" alt="Google Antigravity logo" />
+  </a>
 </p>
 
 ---
@@ -164,23 +166,38 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Satvik992005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Satvik992005" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/satvik995/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/satvik995/" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/satvik995/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/" title="Instagram — update with your profile URL">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
-  <a href="mailto:satvik.pnp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/" title="YouTube — update with your channel URL">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/" title="Discord — update with your profile or server">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/satvik995/" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
   </a>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile. Let's learn, build, and grow together! 🚀</i>
+  <a href="mailto:satvik.pnp@gmail.com">📧 Get in touch</a>
+</p>
+
+<p align="center">
+  <i>Let's build something interesting. 🚀</i>
 </p>
